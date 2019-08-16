@@ -142,7 +142,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: rgb(221, 72, 142);
 			border-bottom-color: rgba(255, 255, 255, 0);
     }
 
@@ -231,7 +231,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("https://subwallpaper.com/Widescreen-Wallpapers/artistic-abstract-wallpapers-widescreen-For-Widescreen-Wallpaper.png");
 			}
 
 			#main > section.two {
