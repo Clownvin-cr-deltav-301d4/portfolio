@@ -37,6 +37,8 @@ footer, header, hgroup, menu, nav, section {
 	position: fixed;
 	left: 0;
 	top: 0;
+	width: 100vw;
+	height: 100vh;
   padding: 0px;
 	margin: 0px;
 	z-index: -1;
