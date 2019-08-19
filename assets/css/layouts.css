@@ -1,35 +1,13 @@
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-html {
-  box-sizing: border-box;
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 body {
   font-size: 19pt;
-  font-weight: 300;
-  line-height: 1.75em;
+		font-weight: 300;
+		line-height: 1.75em;
 }
 
 input, textarea, select {
   font-size: 19pt;
-  font-weight: 300;
-  line-height: 1.75em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.5em;
-}
-
-h2 {
-  font-size: 2em;
-  letter-spacing: -1px;
+		font-weight: 300;
+		line-height: 1.75em;
 }
 
 h3 {
@@ -48,18 +26,16 @@ footer {
   margin: 2em 0 0 0;
 }
 
-hr {
-  border: 0;
-  border-top: solid 1px #ddd;
+sub {
+  position: relative;
+  top: 0.5em;
+  font-size: 0.8em;
 }
 
-blockquote {
-  border-left: solid 0.5em #ddd;
-  padding: 1em 0 1em 2em;
-}
-
-p, ul, ol, dl, table {
-  margin-bottom: 2em;
+sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 0.8em;
 }
 
 /* Container */
@@ -1577,6 +1553,7 @@ p, ul, ol, dl, table {
           }
 
   }
+
 
   /* Wide */
 
