@@ -37,8 +37,8 @@ footer, header, hgroup, menu, nav, section {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-			height: 100vh;
-			width: 100vw;
+			min-height: 100vh;
+			min-width: 100vw;
       padding: 0px;
 			margin: 0px;
 			z-index: -1;
